@@ -1,0 +1,11 @@
+# pyvista dependencies
+vtk
+pyvista
+pyqt
+ipywidgets
+itkwidgets
+nodejs
+bokeh
+pyviz_comms
+panel
+
